@@ -921,3 +921,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.21-14.45.07:908][417]LogSavePackage: Moving '../../../../../Users/KDPS/Documents/Unreal Projects/GodlikeWarriors/Saved/NewBlueprintE263DE9D4DBC42BBD0974A9226795099.tmp' to '../../../../../Users/KDPS/Documents/Unreal Projects/GodlikeWarriors/Content/StarterContent/Blueprints/NewBlueprint.uasset'
 [2021.10.21-14.45.07:920][417]AssetCheck: New page: Asset Save: NewBlueprint
 [2021.10.21-14.45.07:920][417]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
+[2021.10.21-15.22.52:827][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.21-15.22.53:795][484]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.21-15.22.53:888][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.21-15.22.53:899][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.21-15.22.53:903][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.21-15.22.54:769][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
