@@ -946,3 +946,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.21-14.21.15:531][312]LogSavePackage: Moving 'E:/unreal projects/GodlikeWarriors/Saved/gaypornoB601E8964E4524FCE35B708275B12832.tmp' to 'E:/unreal projects/GodlikeWarriors/Content/StarterContent/Blueprints/gayporno.uasset'
 [2021.10.21-14.21.15:581][312]AssetCheck: New page: Asset Save: gayporno
 [2021.10.21-14.21.15:581][312]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/gayporno.gayporno
+[2021.10.21-14.26.27:455][875]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
